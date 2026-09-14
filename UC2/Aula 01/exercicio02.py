@@ -1,1 +1,0 @@
-print("Senac", "TIA", "Python é legal", sep=" | ")
